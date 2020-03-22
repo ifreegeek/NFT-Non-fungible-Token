@@ -1,6 +1,6 @@
 # NFT-Non-fungible Token
 可能是目前全网最全面的NFT资料。NFT/Collectibles。
-# 目前支持NFT的公链及对应标准
+## 目前支持NFT的公链及对应标准
 ### 以太坊
 #### 标准
 * ERC721
