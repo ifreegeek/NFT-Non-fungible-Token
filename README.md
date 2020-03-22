@@ -32,5 +32,7 @@ NFT抵押借贷 https://rinkeby.lend721.app/
 #### 标准
  [官方资料]（https://github.com/RyuGames/RyuNFTs-ONT）
 #### 支持钱包
-## 相关网站
+## 铸造NFT
+## 买卖NFT
+## 相关信息/资讯网站
 [Nonfungible](https://nonfungible.com/)
