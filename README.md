@@ -6,7 +6,7 @@
 #### 标准
 * ERC721
 * ERC1155
-半同质化代币（Semi Non-fungible Token）
+半同质化代币（Semi-fungible Token）
 #### 支持钱包
 * Trust（支持ERC721 & ERC1155）
 * Enjin Wallet
